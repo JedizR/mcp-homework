@@ -1,10 +1,8 @@
 {
   "mcpServers": {
     "verb-jedi": {
-      "command": "/Users/admin/destination/mcp-homework/.venv/bin/python",
-      "args": [
-        "/Users/admin/destination/mcp-homework/server/verb_server.py"
-      ]
+      "command": "python",
+      "args": ["/absolute/path/to/mcp-homework/server/verb_server.py"]
     }
   }
 }

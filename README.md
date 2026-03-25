@@ -20,3 +20,5 @@ mcp-homework/
     ├── tool1.txt           verbify_jedi output
     └── tool2.txt           verbify_keyword output
 ```
+
+The paths in `mcp-config.json` are hardcoded to my machine — change the `python` command and script path to wherever you cloned this repo.
