@@ -1,0 +1,11 @@
+Tool 2 — verbify_keyword
+
+IN:  I am learning MCP today  |  keyword: Natakorn
+OUT: I Natakorn Natakorn MCP today
+
+IN:  We built and deployed the agent  |  keyword: vibing
+OUT: We vibing and vibing the agent
+
+IN:  She has been writing tests all morning  |  keyword: banana
+OUT: She banana banana banana tests all morning
+

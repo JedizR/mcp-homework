@@ -1,0 +1,11 @@
+Tool 1 — verbify_jedi
+
+IN:  I am learning MCP today
+OUT: I Jedi Jedi MCP today
+
+IN:  She writes code and deploys it
+OUT: She Jedi code and Jedi it
+
+IN:  The agent is running and has completed the task
+OUT: The agent Jedi Jedi and Jedi Jedi the task
+
